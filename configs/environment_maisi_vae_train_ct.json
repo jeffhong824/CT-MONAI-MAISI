@@ -1,0 +1,8 @@
+{
+    "model_dir": "/media/sda3/r12922188/MONAI/tutorials/generation/NV-Generate-CTMR/models_ct/",
+    "tfevent_path": "/media/sda3/r12922188/MONAI/tutorials/generation/NV-Generate-CTMR/outputs/tfevent_ct",
+    "trained_autoencoder_path": null,
+    "finetune": false,
+    "json_data_list": "/media/sda3/r12922188/MONAI/tutorials/generation/NV-Generate-CTMR/data/datalist_ct.json"
+}
+
