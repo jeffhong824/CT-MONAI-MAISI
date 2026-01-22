@@ -1,0 +1,54 @@
+# Models and weights (too large for Git)
+models/
+models_ct/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Embeddings (generated files)
+embeddings/
+embeddings_ct/
+*_emb.nii.gz
+*.nii.gz
+
+# Outputs
+outputs/
+*.nii.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (large)
+*.json
+!configs/*.json
+!data/datalist*.json
+
+# Logs
+*.log
+*.out
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,5312 @@
+{
+  "training": [
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0001-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0002-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0005-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0006-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0010-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0011-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0012-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0016-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0018-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0019-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0029-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0030-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0031-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0032-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0034-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0035-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0036-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0038-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0042-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0044-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0045-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0046-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0049-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0050-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0051-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0052-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0053-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0054-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0059-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0062-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0064-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0065-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0067-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0068-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0069-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0070-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0071-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0073-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0075-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0082-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0083-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0084-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0085-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0086-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0089-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0090-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0091-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0092-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0093-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0094-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0095-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0096-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0097-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0101-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0102-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0105-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0106-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0108-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0109-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0110-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0111-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0113-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0114-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0115-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0118-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0119-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0120-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0121-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0122-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0123-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0128-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0130-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0132-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0136-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0137-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0138-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0139-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0141-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0142-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0143-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0144-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0145-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0146-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0149-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0150-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0152-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0153-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0154-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0156-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0157-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0158-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0159-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0160-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0161-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0164-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0182-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0194-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0197-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0198-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0199-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0200-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0201-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0204-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0205-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0207-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0208-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0210-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0212-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0213-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0215-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0218-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0219-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0220-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0221-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0225-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0226-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0227-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0232-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0233-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0238-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0242-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0243-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0246-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0248-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0249-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0252-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0253-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0255-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0258-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0262-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0264-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0265-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0274-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0277-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0281-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0282-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0283-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0285-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0287-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0289-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0291-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0292-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0294-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0295-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0296-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0297-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0298-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0300-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0303-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0304-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0306-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0307-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0309-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0310-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0312-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0313-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0315-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0316-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0317-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0318-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0321-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0323-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0324-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0326-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0328-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0329-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0331-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0332-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0333-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0335-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0337-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0338-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0339-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0340-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0341-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0342-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0347-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0348-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0349-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0351-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0352-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0353-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0354-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0356-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0357-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0358-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0359-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0360-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0362-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0363-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0364-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0365-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0367-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0368-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0369-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0370-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0371-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0372-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0374-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0375-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0377-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0378-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0379-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0380-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0381-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0382-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0383-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0385-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0386-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0387-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0388-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0389-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0391-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0392-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0393-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0394-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0396-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0398-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0399-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0402-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0406-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0407-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0410-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0412-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0413-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0415-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0416-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0417-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0418-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0422-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0423-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0424-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0425-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0427-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0429-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0430-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0432-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0433-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0434-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0437-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0438-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0439-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0442-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0443-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0444-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0445-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0446-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0447-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0448-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0454-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0463-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0464-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0467-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0468-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0469-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0470-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0473-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0474-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0476-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0477-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0478-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0479-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0480-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0481-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0482-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0483-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0488-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0491-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0493-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0495-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0500-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0501-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0505-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0507-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0509-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0510-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0511-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0512-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0516-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0518-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0522-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0523-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0524-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0525-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0527-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0528-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0530-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0534-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0535-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0536-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0538-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0540-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0547-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0552-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0553-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0555-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0556-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0557-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0565-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0570-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0572-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0573-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0576-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0577-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0578-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0579-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0583-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0584-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0586-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0588-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0593-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0594-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0597-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0599-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0600-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0602-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0603-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0605-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0606-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0607-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0609-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0611-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0612-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0615-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0616-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0622-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0628-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0631-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0632-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0633-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0635-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0636-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0637-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0638-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0639-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0640-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0642-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0643-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0645-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0649-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0650-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0652-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0653-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0654-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0656-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0660-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0661-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0663-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0664-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0667-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0668-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0670-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0671-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0672-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0673-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0674-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0675-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0676-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0677-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0678-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0680-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0681-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0682-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0683-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0689-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0690-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0691-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0692-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0693-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0696-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0698-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0700-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0703-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0705-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0706-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0707-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0708-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0711-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0712-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0713-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0714-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0716-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0717-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0718-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0720-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0721-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0722-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0724-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0728-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0733-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0735-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0736-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0737-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0738-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0739-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0740-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0745-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0746-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0747-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0748-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0751-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0753-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0755-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0756-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0758-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0760-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0761-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0762-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0763-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0767-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0768-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0769-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0770-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0771-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0772-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0773-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0777-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0778-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0779-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0781-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0789-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0790-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0791-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0792-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0794-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0795-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0796-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0798-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0799-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0801-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0802-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0803-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0805-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0807-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0811-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0812-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0813-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0814-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0815-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0817-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0818-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0819-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0821-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0823-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0824-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0827-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0829-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0832-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0836-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0837-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0838-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0840-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0841-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0842-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0846-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0851-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0852-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0870-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0871-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0875-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0877-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0878-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0881-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0882-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0884-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0885-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0887-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0888-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0889-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0890-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0891-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0896-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0897-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0898-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0899-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0900-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0901-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0902-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0903-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0906-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0907-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0908-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0909-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0910-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0912-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0913-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0916-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0918-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0922-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0924-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0929-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0930-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0931-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0932-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0933-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0934-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0936-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0937-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0939-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0940-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0942-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0946-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0947-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0949-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0952-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0956-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0957-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0958-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0960-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0963-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0964-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0967-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0971-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0974-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0976-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0977-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0979-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0984-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0994-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0995-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-0999-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1003-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1004-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1007-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1010-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1011-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1012-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1015-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1016-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1019-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1022-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1026-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1028-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1032-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1033-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1034-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1039-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1041-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1042-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1048-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1053-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1055-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1063-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1064-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1065-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1070-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1072-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1073-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1074-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1075-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1076-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1081-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1082-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1083-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1084-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1086-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1091-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1094-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1095-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1098-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1099-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1101-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1102-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1103-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1105-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1106-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1107-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1108-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1113-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1114-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1115-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1117-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1118-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1119-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1120-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1123-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1124-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1129-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1131-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1134-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1136-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1137-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1139-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1140-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1142-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1144-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1146-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1147-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1148-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1149-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1151-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1152-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1154-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1162-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1165-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1168-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1173-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1174-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1176-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1177-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1178-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1180-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1181-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1182-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1184-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1186-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1187-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1188-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1194-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1197-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1451-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1454-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1460-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1462-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1467-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1469-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1471-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1474-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1475-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1477-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1478-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1482-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1485-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1487-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1499-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1501-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1502-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1504-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1513-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1517-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1525-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1533-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1534-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1536-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1537-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1550-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1556-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1584-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1586-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1587-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1588-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1593-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1596-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1598-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1600-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1608-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1610-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1613-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1614-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1617-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1626-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1644-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1649-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1650-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1666-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1673-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1675-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1676-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1684-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1690-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1691-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1692-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1693-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1694-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1696-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1698-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1703-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1710-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1712-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1713-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1716-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1718-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1724-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1730-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1731-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1735-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1736-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1737-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1745-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1747-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1748-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1753-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1757-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1761-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1767-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1769-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1770-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1772-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1775-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1776-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1784-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1788-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1793-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1797-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1799-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1800-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1801-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1808-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1815-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1817-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1818-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1819-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1821-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1832-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1833-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1836-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1846-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1848-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1851-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1855-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1856-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1857-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1858-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1861-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1864-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1866-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1867-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1869-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1870-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1873-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1876-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1877-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1879-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1881-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1882-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1883-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1884-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1885-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1889-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1892-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1893-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1894-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1898-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1902-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1903-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1906-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1908-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1911-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1918-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1919-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1921-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1922-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1923-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1924-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1927-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1928-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1929-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1931-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1933-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1934-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1935-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1936-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1937-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1939-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1940-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1946-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1953-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1954-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1955-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1956-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1958-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1960-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1962-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1965-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1967-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1968-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1973-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1975-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1977-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1978-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1981-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1982-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1983-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1984-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1988-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1989-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1993-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1995-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1997-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1998-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-1999-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2001-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2003-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2004-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2009-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2011-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2013-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2019-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2020-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2022-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2023-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2024-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2026-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2027-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2030-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2032-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2034-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2036-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2038-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2039-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2042-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2043-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2045-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2046-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2048-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2049-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2058-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2060-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2061-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2074-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2075-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2134-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2135-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2136-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2137-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2139-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2144-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2145-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2165-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2168-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2270-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2317-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2318-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2319-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2320-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2322-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2324-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2329-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2331-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2335-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2337-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2343-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2347-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2349-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2354-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2355-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2357-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2358-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2364-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2374-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2392-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2395-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2455-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2496-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2502-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2531-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2532-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2535-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2536-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2549-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2579-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2580-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2582-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2583-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2584-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2638-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2640-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2641-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2644-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2657-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2659-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2661-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2714-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2811-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2812-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2813-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2817-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2821-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2867-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2869-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2871-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2875-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2969-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2970-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2971-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2972-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2973-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2975-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2977-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2981-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-2989-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3000-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3054-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3057-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3109-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3114-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3115-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3140-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3141-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3144-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3146-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3225-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3226-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3227-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3232-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3233-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3235-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3236-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3237-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3240-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3241-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3261-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3285-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3286-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3287-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3288-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3289-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3290-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3303-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3304-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3305-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3326-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3328-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3329-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3330-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3331-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3334-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3370-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3372-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3374-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3450-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3451-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3453-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3492-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3622-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3692-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3694-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3697-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3701-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3702-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3703-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3704-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3705-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3706-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3707-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3931-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3933-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-3940-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-4194-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-4195-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-4196-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-4198-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-4202-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-4206-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-4207-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all/tar/CVAI-4208-tar.nii.gz",
+      "class": "ct"
+    }
+  ],
+  "validation": [
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0009-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0024-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0026-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0033-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0040-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0055-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0057-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0063-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0074-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0078-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0079-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0081-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0087-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0098-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0099-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0100-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0107-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0117-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0129-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0134-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0147-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0148-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0151-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0163-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0181-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0183-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0244-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0245-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0251-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0257-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0263-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0275-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0288-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0319-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0330-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0343-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0344-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0346-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0361-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0366-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0395-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0403-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0404-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0405-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0409-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0421-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0431-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0435-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0436-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0453-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0457-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0461-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0465-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0489-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0492-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0506-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0508-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0514-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0533-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0537-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0545-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0549-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0551-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0563-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0566-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0569-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0574-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0575-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0581-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0589-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0592-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0598-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0601-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0604-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0610-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0613-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0620-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0621-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0651-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0665-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0669-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0684-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0704-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0742-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0743-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0764-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0774-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0776-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0783-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0785-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0787-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0806-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0825-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0883-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0917-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0925-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0927-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0938-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0943-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0950-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0951-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0954-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0955-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0973-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0975-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0981-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0986-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-0992-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1006-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1017-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1023-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1043-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1054-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1056-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1057-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1060-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1061-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1067-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1068-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1077-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1079-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1125-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1128-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1141-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1163-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1171-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1492-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1514-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1544-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1576-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1579-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1603-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1639-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1662-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1670-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1671-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1680-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1686-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1707-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1721-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1741-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1749-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1779-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1782-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1805-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1810-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1811-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1814-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1820-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1824-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1849-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1854-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1862-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1887-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1890-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1899-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1917-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1948-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1966-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1970-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1991-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-1992-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2010-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2025-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2041-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2056-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2076-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2132-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2138-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2140-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2149-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2273-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2316-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2380-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2656-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2658-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2660-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2799-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2818-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2974-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2978-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-2980-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-3139-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-3231-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-3238-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-3327-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-3698-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-3708-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-3824-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/val_all/tar/CVAI-4200-tar.nii.gz",
+      "class": "ct"
+    }
+  ],
+  "testing": [
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0126-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0127-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0131-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0135-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0155-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0259-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0301-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0355-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0376-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0384-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0411-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0426-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0485-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0487-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0496-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0502-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0531-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0546-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0560-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0564-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0580-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0582-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0596-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0608-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0614-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0625-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0626-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0629-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0644-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0655-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0662-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0666-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0687-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0694-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0719-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0725-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0726-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0730-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0731-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0734-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0744-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0749-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0750-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0752-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0754-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0759-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0765-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0784-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0786-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0788-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0804-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0808-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0809-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0810-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0826-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0835-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0844-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0848-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0849-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0850-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0874-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0879-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0880-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0886-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0893-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0905-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0911-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0915-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0920-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0921-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0935-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0945-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0948-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0953-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0970-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0991-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0997-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-0998-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1005-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1020-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1025-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1046-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1050-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1051-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1059-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1066-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1069-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1089-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1092-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1097-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1100-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1104-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1109-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1110-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1122-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1130-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1155-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1169-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1185-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1192-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1458-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1461-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1465-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1479-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1484-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1488-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1505-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1510-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1545-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1548-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1549-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1612-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1615-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1616-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1619-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1624-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1663-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1668-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1699-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1738-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1739-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1743-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1755-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1760-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1771-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1781-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1792-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1806-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1813-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1816-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1825-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1828-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1831-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1837-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1847-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1852-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1872-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1880-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1888-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1897-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1900-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1901-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1904-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1910-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1913-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1916-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1941-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1943-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1949-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1963-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1964-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1971-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1972-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1976-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-1990-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2000-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2005-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2007-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2008-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2028-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2040-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2054-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2130-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2133-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2325-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2326-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2336-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2345-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2360-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2381-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2383-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2389-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2418-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2433-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2444-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2451-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2505-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2506-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2637-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2645-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2664-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2816-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2873-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-2979-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-3088-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-3325-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-3709-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-3825-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-3826-tar.nii.gz",
+      "class": "ct"
+    },
+    {
+      "image": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/test_all/tar/CVAI-3932-tar.nii.gz",
+      "class": "ct"
+    }
+  ]
+}

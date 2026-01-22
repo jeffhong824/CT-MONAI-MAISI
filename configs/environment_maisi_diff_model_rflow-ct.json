@@ -1,0 +1,12 @@
+{
+    "data_base_dir": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/train_all",
+    "embedding_base_dir": "/media/sda3/r12922188/DB_diffusion/CENC_CEfixed/embeddings_ct",
+    "json_data_list": "/media/sda3/r12922188/MONAI/tutorials/generation/NV-Generate-CTMR/data/datalist_ct_paired.json",
+    "model_dir": "/media/sda3/r12922188/MONAI/tutorials/generation/NV-Generate-CTMR/models_ct/",
+    "model_filename": "diff_unet_3d_rflow_ct.pt",
+    "output_dir": "/media/sda3/r12922188/MONAI/tutorials/generation/NV-Generate-CTMR/outputs/diff_unet_ct",
+    "output_prefix": "diff_unet_ct",
+    "trained_autoencoder_path": "models/autoencoder_v1.pt",
+    "existing_ckpt_filepath": null,
+    "modality_mapping_path": "/media/sda3/r12922188/MONAI/tutorials/generation/NV-Generate-CTMR/configs/modality_mapping.json"
+}
